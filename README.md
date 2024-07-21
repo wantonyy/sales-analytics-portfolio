@@ -1,7 +1,7 @@
-# sales-analytics-portfolio
-This is dummy project for showcasing my portfolio
+# Data Analytics Portfolio
 
-Here I create a sales data analysis using google colab and a dashboard using google looker studio
+## Google Colab Notebooks
+- [Notebook 1](https://colab.research.google.com/drive/1tFAUh2t07ELXP283mAmTS8C6HqVuQEgw?usp=sharing)
 
-Link into Google Colab notebook : https://colab.research.google.com/drive/1tFAUh2t07ELXP283mAmTS8C6HqVuQEgw?usp=sharing
-Link into Google Looker Studio  : https://lookerstudio.google.com/s/jVutgGZ7kvk
+## Looker Studio Reports
+- [Report 1](https://lookerstudio.google.com/s/jVutgGZ7kvk)
